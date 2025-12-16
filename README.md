@@ -1,4 +1,3 @@
-# 💫 About Me:
 ⭐ About Me :<br>👯 Open to collaborating on Java backend & beginner-friendly open-source projects🤝 I’m looking for help with<br>🌱 Currently learning DSA, JDBC & Servlets/JSP<br>💬 Ask me about Core Java, JDBC, Servlet/JSP,  DSA (arrays & strings), SQL , React.js,  JavaScript<br>🧠 I’m a consistent learner who believes strong fundamentals build great software
 
 
