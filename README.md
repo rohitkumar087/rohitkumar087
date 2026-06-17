@@ -1,5 +1,13 @@
 # 💫 About Me:
-👯 Open to collaborating on Java backend & beginner-friendly open-source projects🤝 I’m looking for help with<br>🌱 Currently learning DSA, JDBC & Servlets/JSP<br>💬 Ask me about Core Java, JDBC, Servlet/JSP,  DSA (arrays & strings), SQL , React.js,  JavaScript<br>🧠 I’m a consistent learner who believes strong fundamentals build great software
+
+🌱 Currently learning Spring Boot, Spring Security, Advanced Backend Development, and building real-world projects
+👯 Open to collaborating on Java Backend, Spring Boot, and Open-Source Projects
+💬 Ask me about Core Java, Collections Framework, JDBC, Servlets/JSP, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, SQL, React.js, JavaScript, and DSA
+🚀 Creating projects using Spring, Spring Boot, Spring Data JPA, Spring Security, REST APIs, React.js, and MySQL
+🧠 Passionate about Backend Development and writing clean, scalable code
+📚 Consistent learner who believes strong fundamentals build great software
+🎯 Currently focused on becoming a skilled Java Backend Developer
+
 
 
 ## 🌐 Socials:
