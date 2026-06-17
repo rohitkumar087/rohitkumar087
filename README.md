@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-🌱 Currently learning Spring Boot, Spring Security, Advanced Backend Development, and building real-world projects
-👯 Open to collaborating on Java Backend, Spring Boot, and Open-Source Projects
-💬 Ask me about Core Java, Collections Framework, JDBC, Servlets/JSP, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, SQL, React.js, JavaScript, and DSA
-🚀 Creating projects using Spring, Spring Boot, Spring Data JPA, Spring Security, REST APIs, React.js, and MySQL
-🧠 Passionate about Backend Development and writing clean, scalable code
-📚 Consistent learner who believes strong fundamentals build great software
+🌱 Currently learning Spring Boot, Spring Security, Advanced Backend Development, and building real-world projects<br>
+👯 Open to collaborating on Java Backend, Spring Boot, and Open-Source Projects<br>
+💬 Ask me about Core Java, Collections Framework, JDBC, Servlets/JSP, Spring Boot, Spring MVC, Spring Data JPA, Spring Security, SQL, React.js, JavaScript, and DSA<br>
+🚀 Creating projects using Spring, Spring Boot, Spring Data JPA, Spring Security, REST APIs, React.js, and MySQL<br>
+🧠 Passionate about Backend Development and writing clean, scalable code<br>
+📚 Consistent learner who believes strong fundamentals build great software<br>
 🎯 Currently focused on becoming a skilled Java Backend Developer
 
 
